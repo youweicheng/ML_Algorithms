@@ -4,4 +4,4 @@ In this folder, I carry out machine learning algorithms from first principles to
 
 The following are the Algorithms covered:
 
-** Decision Trees
+* Decision Trees
